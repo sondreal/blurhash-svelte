@@ -2,7 +2,7 @@
 
 ![npm](https://img.shields.io/npm/v/blurhash-svelte)
 ![license](https://img.shields.io/npm/l/blurhash-svelte)
-![issues](https://img.shields.io/github/issues/yourusername/blurhash-svelte)
+![issues](https://img.shields.io/github/issues/sondreal/blurhash-svelte)
 
 `blurhash-svelte` is a Svelte component that decodes and displays BlurHash images. BlurHash is a compact representation of a placeholder for an image that can be displayed while the full image is loading.
 
